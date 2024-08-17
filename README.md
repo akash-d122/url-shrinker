@@ -3,8 +3,7 @@
 
 **URL Shrinker** is a full-stack application that allows users to shorten URLs, track analytics, generate QR codes, and more. Built with **ReactJS**, **Supabase**, and **Shadcn UI**, this app features robust authentication, a modern UI, and scalable deployment options.
 
-
-
+Live LInk : https://url-shrinkerr.netlify.app
 
 ## 🚀 Features
 
